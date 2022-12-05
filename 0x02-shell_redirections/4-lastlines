@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash#!/bin/bash
+=======
+#!/bin/bash
+>>>>>>> debfd883f72e413e35eca316888124857888b629
 tail -n 10 /etc/passwd
